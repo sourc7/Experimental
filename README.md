@@ -1,2 +1,2 @@
 # Experin
-Experin is experimental code, used and published by Sourc7 for development, some of the code are from multiple sources.
+Experin is Experimental Code, shared to learn programming from basic to advanced. Some of the code are from multiple sources.
